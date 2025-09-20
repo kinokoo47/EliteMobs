@@ -1,6 +1,9 @@
 Minecraft Java Edition Ver.1.20.4　　　※二次配布はお控えください
 
-★ Elite Mobs Datapack.zip をダウンロードしてから、ワールドフォルダ内の datapacks に移動させて適用させます。
+プレイ方法
+1. Elite Mobs Datapack.zip をクリックしてから、右に表示される Raw をクリックしてダウンロードします。
+2. Elite Mobs Datapack.zip がダウンロードできたら、ワールドフォルダ内の datapacks に移動させます。
+3. ワールドを起動し、適用されていることを確かめてください。
 
 このデータパックでは35種類のモンスターが強化されます。
 
